@@ -28,7 +28,7 @@
 ## 📚 Sobre
 
 <div align="left">
-    <img src="./assets/nlw-copa.png" width="350"/>
+    <img src=".github\nlw-copa.png" width="350"/>
 </div>
 
 <p>
@@ -41,7 +41,7 @@ Comandado por Mayk Brito, o workshop da Trilha Explorer, cujo foco é o estudo d
 ## 🔖 Layout
 
 <div align="left">
-    <img src="./assets/Capa.png" width="400"/>
+    <img src=".github\Capa.png" width="400"/>
 </div>
 
 Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/community/file/1169028052212317700), no [Figma](http://figma.com/).
